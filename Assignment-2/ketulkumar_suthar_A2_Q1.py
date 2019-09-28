@@ -1,5 +1,5 @@
 
-# This program print wors in ascending order which are input by user
+# This program print words in ascending order which are input by user
 
 if __name__ == '__main__':
     word_list = []
